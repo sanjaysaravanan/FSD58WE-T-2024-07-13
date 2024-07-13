@@ -111,25 +111,9 @@ Next Session:
 
       _reditects is used by netlify
 
-Next Session:
   Complete CRUD operations
   react-router-dom
     layout
     navigation
   
   Props Drilling
-
-Task:
-
-  Day 24:
-   https://docs.google.com/document/d/1nuVbWYwyP7N1zC9rAoO0taVvthGWsaHH-nfhNdklTQw/edit
-
-   Create simple Link for three different pages,
-    /full-stack
-    /data-science
-    /cyber-security
-  
-  React Router DOM
-
-
-  Homework: Invetigate on ** Props Drilling ** ( I will also explain in next class, please spend around 5mins in Invetigation )
